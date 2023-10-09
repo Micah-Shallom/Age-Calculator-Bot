@@ -4,7 +4,7 @@ This is a Slack bot that calculates the age of a user based on the year they wer
 
 ## Usage
 
-To use the bot, simply type the command `/my_yob_is` followed by the year you were born. For example, if you were born in 1990, you would type `/my_yob_is 1990`.
+To use the bot, simply type the command `@age-bot /my yob is` followed by the year you were born. For example, if you were born in 1990, you would type `@age-bot /my yob is 1990`.
 
 The bot will then calculate your age based on the year you were born and respond with a message containing your age.
 
